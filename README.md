@@ -1,3 +1,5 @@
+Project does not import correctly using Eclipse. Project must be built by creating a new Project and dragging all files across into that new Eclipse Project.
+
 # Apress Source Code
 
 This repository accompanies [*The Definitive Guide to Java Swing*](http://www.apress.com/9781590594476) by John Zukowski (Apress, 2005).
